@@ -1,1 +1,2 @@
-ceci est blablabla
+c'est mon fichier readme du kikou.text
+
